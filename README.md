@@ -1,3 +1,3 @@
-# Pax Template
+# Adidas Template
 
 ![Screenshot](Template.jpg)
