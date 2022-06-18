@@ -1,0 +1,28 @@
+{
+    "nav" : {
+        "FierstLinks" : ["Man", "Woman", "Child"],
+        "LastLinks" : ["Search", "log in"],
+        "DropLink" : ["USA", "RUS", "ARM"],
+        "CartLable" : "Cart",
+        "Cart" : []
+    },
+    "content" : {
+        "bgImg" : "adidas_bg.png",
+        "controll_btn" : ["back", "next"],
+        "product" : {
+            "Name" : "Superstar",
+            "Brand" : "Adidas",
+            "color" : "color.png",
+            "snakers" : "sneakers-1.png",
+            "Price" : 120
+        },
+        "sneakers_data" : {
+            "color_title" : ["Color", "Exlusive"],
+            "ex_rev" : ["Explore", "reviews"],
+            "men/woMan" : "Men's shoes",
+            "size" : "Size",
+            "Add_to_cart" : "Add to cart" 
+        }
+
+    }
+}
